@@ -1,0 +1,66 @@
+{
+  "name": "Kefas Etiku Francis",
+  "username": "kefras",
+  "role": "☁️ Cloud & DevOps Engineer | Computer Science Student",
+  "greeting": "Hi there, I'm Kefas 👋",
+  "bio": "I build secure, scalable cloud infrastructure and modern web experiences. I enjoy turning ideas into reliable systems with strong automation and observability.",
+  "about": {
+    "location": "Nigeria",
+    "education": "BSc Computer Science @ Miva Open University (Class of 2027)",
+    "currently": "Preparing for AWS Cloud Practitioner and building S3 automation projects",
+    "learning": "Advanced Kubernetes, Terraform, and cloud security"
+  },
+  "socialLinks": [
+    {
+      "label": "Portfolio",
+      "url": "https://preview--kefas-cloud-canvas.lovable.app/",
+      "icon": "google-chrome",
+      "color": "0d1117"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kefas/",
+      "icon": "linkedin",
+      "color": "0077B5"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:kefasetikufrancis@gmail.com",
+      "icon": "gmail",
+      "color": "D14836"
+    }
+  ],
+  "customBadges": [
+    {
+      "label": "Profile Views",
+      "url": "https://komarev.com/ghpvc/?username=kefras&color=00eaff&style=for-the-badge"
+    }
+  ],
+  "techStack": [
+    "aws",
+    "gcp",
+    "kubernetes",
+    "docker",
+    "linux",
+    "python",
+    "java",
+    "html",
+    "css",
+    "js",
+    "github",
+    "vscode",
+    "terraform",
+    "postgres"
+  ],
+  "theme": {
+    "cardBg": "0d1117",
+    "accent": "00eaff",
+    "text": "c9d1d9",
+    "muted": "8b949e",
+    "statsTheme": "tokyonight"
+  },
+  "settings": {
+    "topLanguagesCount": 8,
+    "excludeForks": true
+  }
+}
