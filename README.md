@@ -42,6 +42,19 @@ I am a dedicated **Cloud & DevOps enthusiast** and Computer Science student at *
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kefas&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
+---
+
+### 📊 My GitHub Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kefas&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kefas&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kefas&repo=kefas-portfolio&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ### ![Kefas's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kefas&theme=tokyonight&hide_border=true)
 
