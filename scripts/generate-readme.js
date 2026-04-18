@@ -41,7 +41,7 @@ async function safeRequestJson(url, token, extraHeaders = {}) {
   try {
     return await requestJson(url, token, extraHeaders);
   } catch (error) {
-    console.warn(`Warning: ${error.message}`);
+    console.warn('Warning: GitHub API request failed, using fallback values where needed.');
     return null;
   }
 }
