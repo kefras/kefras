@@ -3,13 +3,6 @@
 
   <h3>☁️ Cloud & DevOps Engineer | Computer Science Student</h3>
 
-  <p>
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-    <img src="https://io.github.io/github-profile-views-counter/badge.svg?area=kefas&style=flat-square" />
-  </p>
-</div>
-
 <div align="center">
   <p>
     <a href="https://preview--kefas-cloud-canvas.lovable.app/" target="_blank">
