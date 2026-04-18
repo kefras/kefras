@@ -15,7 +15,7 @@
     </a>
   </p>
   
-  <img src="https://komarev.com/ghpvc/?username=kefas&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kefas&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
@@ -43,5 +43,6 @@ I am a dedicated **Cloud & DevOps enthusiast** and Computer Science student at *
 </p>
 
 <p align="center">
-  <img src="https://github-raw-gradient-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=kefas&outputs=github-contribution-grid-snake.svg" alt="snake" />
+  ### 📈 My Activity
+![Kefas's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kefas&theme=tokyonight&hide_border=true)
 </p>
