@@ -44,11 +44,11 @@ I build secure, scalable cloud infrastructure and modern web experiences. I enjo
 
 <table>
   <tr>
-    <td>⭐ <b>Total Stars</b><br/>0</td>
-    <td>🧾 <b>Total Commits</b><br/>0</td>
+    <td>⭐ <b>Total Stars</b><br/>4</td>
+    <td>🧾 <b>Total Commits</b><br/>186</td>
     <td>🔀 <b>Total PRs</b><br/>0</td>
     <td>🐞 <b>Total Issues</b><br/>0</td>
-    <td>📦 <b>Public Repos</b><br/>0</td>
+    <td>📦 <b>Public Repos</b><br/>11</td>
   </tr>
 </table>
 
@@ -58,7 +58,10 @@ I build secure, scalable cloud infrastructure and modern web experiences. I enjo
 
 | Language | Usage | Share |
 |---|---|---|
-| N/A | ░░░░░░░░░░░░░░░░░░░░ | 0.0% |
+| HTML | ███████████░░░░░░░░░ | 56.8% |
+| CSS | ██████░░░░░░░░░░░░░░ | 28.4% |
+| JavaScript | ███░░░░░░░░░░░░░░░░░ | 13.5% |
+| Python | ░░░░░░░░░░░░░░░░░░░░ | 1.2% |
 
 ---
 
