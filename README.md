@@ -6,7 +6,7 @@
   <h3>☁️ Cloud & DevOps Engineer | Computer Science Student</h3>
 
   <p>
-    <a href="https://preview--kefas-cloud-canvas.lovable.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00eaff" /></a>
+    <a href="https://kefras.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00eaff" /></a>
     <a href="https://www.linkedin.com/in/kefas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00eaff" /></a>
     <a href="mailto:kefasetikufrancis@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00eaff" /></a>
   </p>
@@ -45,10 +45,10 @@ I build secure, scalable cloud infrastructure and modern web experiences. I enjo
 <table>
   <tr>
     <td>⭐ <b>Total Stars</b><br/>4</td>
-    <td>🧾 <b>Total Commits</b><br/>191</td>
+    <td>🧾 <b>Total Commits</b><br/>195</td>
     <td>🔀 <b>Total PRs</b><br/>0</td>
     <td>🐞 <b>Total Issues</b><br/>0</td>
-    <td>📦 <b>Public Repos</b><br/>11</td>
+    <td>📦 <b>Public Repos</b><br/>12</td>
   </tr>
 </table>
 
@@ -58,10 +58,10 @@ I build secure, scalable cloud infrastructure and modern web experiences. I enjo
 
 | Language | Usage | Share |
 |---|---|---|
-| HTML | ███████████░░░░░░░░░ | 56.8% |
-| CSS | ██████░░░░░░░░░░░░░░ | 28.4% |
-| JavaScript | ███░░░░░░░░░░░░░░░░░ | 13.5% |
-| Python | ░░░░░░░░░░░░░░░░░░░░ | 1.2% |
+| HTML | ██████████░░░░░░░░░░ | 51.4% |
+| CSS | ██████░░░░░░░░░░░░░░ | 31.3% |
+| JavaScript | ███░░░░░░░░░░░░░░░░░ | 16.3% |
+| Python | ░░░░░░░░░░░░░░░░░░░░ | 1.0% |
 
 ---
 
@@ -100,7 +100,7 @@ I build secure, scalable cloud infrastructure and modern web experiences. I enjo
 ## 🌐 Social Links
 
 <p align="center">
-  <a href="https://preview--kefas-cloud-canvas.lovable.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00eaff" /></a>
+  <a href="https://kefras.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00eaff" /></a>
     <a href="https://www.linkedin.com/in/kefas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00eaff" /></a>
     <a href="mailto:kefasetikufrancis@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00eaff" /></a>
 </p>
