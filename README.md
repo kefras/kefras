@@ -45,10 +45,10 @@ I build secure, scalable cloud infrastructure and modern web experiences. I enjo
 <table>
   <tr>
     <td>⭐ <b>Total Stars</b><br/>5</td>
-    <td>🧾 <b>Total Commits</b><br/>248</td>
+    <td>🧾 <b>Total Commits</b><br/>256</td>
     <td>🔀 <b>Total PRs</b><br/>0</td>
     <td>🐞 <b>Total Issues</b><br/>0</td>
-    <td>📦 <b>Public Repos</b><br/>16</td>
+    <td>📦 <b>Public Repos</b><br/>18</td>
   </tr>
 </table>
 
