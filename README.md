@@ -6,7 +6,7 @@
   <h3>☁️ Cloud & DevOps Engineer | Computer Science Student</h3>
 
   <p>
-    <a href="https://kefas.live" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00eaff" /></a>
+    <a href="https://kefras.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00eaff" /></a>
     <a href="https://www.linkedin.com/in/kefas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00eaff" /></a>
     <a href="mailto:kefasetikufrancis@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00eaff" /></a>
   </p>
@@ -45,7 +45,7 @@ I build secure, scalable cloud infrastructure and modern web experiences. I enjo
 <table>
   <tr>
     <td>⭐ <b>Total Stars</b><br/>6</td>
-    <td>🧾 <b>Total Commits</b><br/>262</td>
+    <td>🧾 <b>Total Commits</b><br/>263</td>
     <td>🔀 <b>Total PRs</b><br/>0</td>
     <td>🐞 <b>Total Issues</b><br/>0</td>
     <td>📦 <b>Public Repos</b><br/>18</td>
@@ -103,7 +103,7 @@ I build secure, scalable cloud infrastructure and modern web experiences. I enjo
 ## 🌐 Social Links
 
 <p align="center">
-  <a href="https://kefas.live" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00eaff" /></a>
+  <a href="https://kefras.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00eaff" /></a>
     <a href="https://www.linkedin.com/in/kefas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00eaff" /></a>
     <a href="mailto:kefasetikufrancis@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00eaff" /></a>
 </p>
