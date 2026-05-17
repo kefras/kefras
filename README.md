@@ -45,10 +45,10 @@ I build secure, scalable cloud infrastructure and modern web experiences. I enjo
 <table>
   <tr>
     <td>⭐ <b>Total Stars</b><br/>6</td>
-    <td>🧾 <b>Total Commits</b><br/>264</td>
+    <td>🧾 <b>Total Commits</b><br/>266</td>
     <td>🔀 <b>Total PRs</b><br/>0</td>
     <td>🐞 <b>Total Issues</b><br/>0</td>
-    <td>📦 <b>Public Repos</b><br/>18</td>
+    <td>📦 <b>Public Repos</b><br/>19</td>
   </tr>
 </table>
 
@@ -58,9 +58,9 @@ I build secure, scalable cloud infrastructure and modern web experiences. I enjo
 
 | Language | Usage | Share |
 |---|---|---|
-| HTML | ███████░░░░░░░░░░░░░ | 33.1% |
-| TypeScript | ██████░░░░░░░░░░░░░░ | 30.8% |
-| CSS | ████░░░░░░░░░░░░░░░░ | 20.9% |
+| HTML | ███████░░░░░░░░░░░░░ | 32.9% |
+| TypeScript | ██████░░░░░░░░░░░░░░ | 30.7% |
+| CSS | ████░░░░░░░░░░░░░░░░ | 21.3% |
 | JavaScript | ███░░░░░░░░░░░░░░░░░ | 14.2% |
 | Python | ░░░░░░░░░░░░░░░░░░░░ | 0.7% |
 | Java | ░░░░░░░░░░░░░░░░░░░░ | 0.2% |
