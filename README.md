@@ -44,11 +44,11 @@ I build secure, scalable cloud infrastructure and modern web experiences. I enjo
 
 <table>
   <tr>
-    <td>⭐ <b>Total Stars</b><br/>5</td>
-    <td>🧾 <b>Total Commits</b><br/>303</td>
+    <td>⭐ <b>Total Stars</b><br/>15</td>
+    <td>🧾 <b>Total Commits</b><br/>343</td>
     <td>🔀 <b>Total PRs</b><br/>0</td>
     <td>🐞 <b>Total Issues</b><br/>0</td>
-    <td>📦 <b>Public Repos</b><br/>25</td>
+    <td>📦 <b>Public Repos</b><br/>28</td>
   </tr>
 </table>
 
