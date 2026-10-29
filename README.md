@@ -44,9 +44,9 @@ I build secure, scalable cloud infrastructure and modern web experiences. I enjo
 
 <table>
   <tr>
-    <td>⭐ <b>Total Stars</b><br/>17</td>
-    <td>🧾 <b>Total Commits</b><br/>379</td>
-    <td>🔀 <b>Total PRs</b><br/>4</td>
+    <td>⭐ <b>Total Stars</b><br/>22</td>
+    <td>🧾 <b>Total Commits</b><br/>382</td>
+    <td>🔀 <b>Total PRs</b><br/>6</td>
     <td>🐞 <b>Total Issues</b><br/>0</td>
     <td>📦 <b>Public Repos</b><br/>36</td>
   </tr>
@@ -58,13 +58,13 @@ I build secure, scalable cloud infrastructure and modern web experiences. I enjo
 
 | Language | Usage | Share |
 |---|---|---|
-| Jupyter Notebook | █████████░░░░░░░░░░░ | 44.5% |
-| HTML | ████░░░░░░░░░░░░░░░░ | 17.5% |
-| JavaScript | ███░░░░░░░░░░░░░░░░░ | 14.0% |
-| CSS | ███░░░░░░░░░░░░░░░░░ | 12.7% |
-| TypeScript | █░░░░░░░░░░░░░░░░░░░ | 5.5% |
-| Python | █░░░░░░░░░░░░░░░░░░░ | 4.5% |
-| PLpgSQL | ░░░░░░░░░░░░░░░░░░░░ | 0.6% |
+| Jupyter Notebook | ██████████░░░░░░░░░░ | 51.3% |
+| HTML | ███░░░░░░░░░░░░░░░░░ | 16.7% |
+| CSS | ██░░░░░░░░░░░░░░░░░░ | 9.5% |
+| Python | ██░░░░░░░░░░░░░░░░░░ | 7.9% |
+| JavaScript | █░░░░░░░░░░░░░░░░░░░ | 6.8% |
+| TypeScript | █░░░░░░░░░░░░░░░░░░░ | 6.4% |
+| PLpgSQL | ░░░░░░░░░░░░░░░░░░░░ | 0.7% |
 | HCL | ░░░░░░░░░░░░░░░░░░░░ | 0.6% |
 
 ---
